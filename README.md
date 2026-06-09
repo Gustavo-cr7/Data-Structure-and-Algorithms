@@ -16,8 +16,8 @@
     [1]        [2]       [3]      [4]      [5]
      |          |         |        |        |
      v          v         v        v        v   
-     Inserir  Visualizar Executar Histórico Encerrar
-     Dados     Status    Análise  Leituras Sistema
+    Inserir  Visualizar Executar Histórico Encerrar
+    Dados     Status    Análise  Leituras Sistema
      |          |         |        |        |
      +----------+---------+--------+--------+
                           |              
