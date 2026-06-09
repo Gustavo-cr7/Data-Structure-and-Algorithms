@@ -1,29 +1,42 @@
 ## Data-Structure-and-Algorithms
               
 ## Fluxograma Simples
-              
-                  INÍCIO
-                    |
-                    v
-           Exibir Menu Principal
-                    |
-                    v
-            Escolher uma Opção
-                    |
+
+                        INÍCIO
+                          |
+                          v
+                 Exibir Menu Principal
+                          |
+                          v
+                Escolher uma Opção
+                          |
      +----------+---------+--------+--------+
      |          |         |        |        |
      v          v         v        v        v
     [1]        [2]       [3]      [4]      [5]
      |          |         |        |        |
-     v          v         v        v        v
+     v          v         v        v        v   
+     Inserir  Visualizar Executar Histórico Encerrar
+     Dados     Status    Análise  Leituras Sistema
+     |          |         |        |        |
+     +----------+---------+--------+--------+
+                          |              
+                          v
+                    Volta ao Menu
+
+
+     
+
+  
+   Dados     Status    Análise  Leituras Sistema
   Inserir  Visualizar Executar Histórico Encerrar
    Dados     Status    Análise  Leituras Sistema
      |          |         |        |        |
      +----------+---------+--------+--------+
                           |              
                           v
-                   Volta ao Menu
-
+                    Volta ao Menu
+                               
 ## Explicação da Lógica Utilizada
 
 O sistema foi desenvolvido para monitorar informações básicas de uma missão espacial utilizando Python.
