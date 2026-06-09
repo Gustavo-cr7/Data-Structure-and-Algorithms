@@ -2,27 +2,27 @@
               
 ## Fluxograma Simples
               
-#                 INÍCIO
-#                    |
-#                    v
-#           Exibir Menu Principal
-#                    |
-#                    v
-#            Escolher uma Opção
-#                    |
-#     +----------+---------+--------+--------+
-#     |          |         |        |        |
-#     v          v         v        v        v
-#    [1]        [2]       [3]      [4]      [5]
-#     |          |         |        |        |
-#     v          v         v        v        v
-#  Inserir  Visualizar Executar Histórico Encerrar
-#   Dados     Status    Análise  Leituras Sistema
-#     |          |         |        |        |
-#     +----------+---------+--------+--------+
-#                          |              
-#                          v
-#                   Volta ao Menu
+                  INÍCIO
+                    |
+                    v
+           Exibir Menu Principal
+                    |
+                    v
+            Escolher uma Opção
+                    |
+     +----------+---------+--------+--------+
+     |          |         |        |        |
+     v          v         v        v        v
+    [1]        [2]       [3]      [4]      [5]
+     |          |         |        |        |
+     v          v         v        v        v
+  Inserir  Visualizar Executar Histórico Encerrar
+   Dados     Status    Análise  Leituras Sistema
+     |          |         |        |        |
+     +----------+---------+--------+--------+
+                          |              
+                          v
+                   Volta ao Menu
 
 ## Explicação da Lógica Utilizada
 
