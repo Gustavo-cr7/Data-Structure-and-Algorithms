@@ -67,4 +67,4 @@ Estruturas de repetição;
 Entrada e saída de dados.
 
 ## Vídeo de demonstração
-🎥 [Assistir no YouTube](https://youtu.be/iAhHidtbBgQ)
+🎥 [Assistir no YouTube](https://youtu.be/IF7J95mupnk)
